@@ -1,10 +1,15 @@
 // 31 Getting the current date and time
 
+
 // var rightNow = new Date();
 
 // console.log(rightNow);
 
+
+
+
 // 32 Extracting parts of the date and time
+
 
 // var rightNow = new Date()
 // var day = rightNow.getDay()
@@ -19,7 +24,11 @@
 
 // console.log(month);
 
+
+
+
 // 33 Specifying a date and time
+
 
 // var current = new Date()
 // var selected = new Date("Nov 18, 2007")
@@ -30,7 +39,11 @@
 
 // console.log(result);
 
+
+
+
 // 34 Changing elements of a date and time
+
 
 // var date = new Date()
 // date.setFullYear("2026")
@@ -43,7 +56,11 @@
 
 // console.log(`year is ${date}`);
 
+
+
+
 // 35 functions
+
 
 // function timer(){
 //     var date = new Date()
@@ -68,7 +85,11 @@
 // }
 // setInterval(timer, 1000);
 
+
+
+
 // 36 Functions: Passing them data
+
 
 // function user(greet){
 //     alert(greet)
@@ -76,7 +97,11 @@
 // user("hello how was your day")
 // console.log("good bro thanks");
 
+
+
+
 // 37 Functions: Passing data back from them
+
 
 // function sum(merch){
 //     var orderTot;
@@ -93,7 +118,11 @@
 // var result = sum(500)
 // alert(result)
 
+
+
+
 // 38 Functions: Local vs. global variables
+
 
 // var user = "hello"  // global variable
 // console.log(user);
@@ -104,7 +133,11 @@
 // }
 // greet()
 
+
+
+
 // 39 switch statements: How to start them
+
 
 // var day = "sunaf";
 
@@ -115,7 +148,23 @@
 //   case "sat":
 //     alert("masti day");
 //     break;
-//     default :
+// }
 
+
+
+
+// 40 switch statements: How to complete them
+
+
+// var day = "sunaf";
+
+// switch (day) {
+//   case "sun":
+//     alert("fun day");
+//     break;
+//   case "sat":
+//     alert("masti day");
+//     break;
+//   default :
 //     alert("bad day")
 // }
