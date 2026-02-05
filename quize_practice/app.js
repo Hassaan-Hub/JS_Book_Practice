@@ -20,6 +20,11 @@
 
 
 
-var div = document.getElementsByTagName("div");
+// var div = document.getElementsByTagName("div");
+// console.log(div);
 
-console.log(div);
+
+
+
+// var div = document.getElementById("complex");
+// console.log(div.childNodes);
