@@ -47,3 +47,56 @@
 // inside html
 
 
+
+
+// 47 Events: mouse
+
+// inside html
+
+
+
+
+// 48 Events: fields
+
+// inside html
+
+
+
+
+// 49 Reading field values
+
+
+// function chackAddress(){
+//     var val = document.getElementById("fields").value;
+//     if(val == ""){
+//         alert("email Address required")
+//     }
+
+//     var pera = document.getElementById("pera")
+//     var text = document.createTextNode(val)
+
+
+//     pera.appendChild(text)
+// }
+
+
+
+
+// 50 Setting field values
+
+// function fillCity() {
+//     var cityName;
+//     var zipEntered = document.getElementById("zip").value;
+//     switch (zipEntered) {
+//         case "60608":
+//             cityName = "Chicago";
+//             break;
+//         case "68114":
+//             cityName = "Omaha";
+//             break;
+//         case "53212":
+//             cityName = "Milwaukee";
+//     }
+//     document.getElementById("city").value = cityName;
+// }
+
