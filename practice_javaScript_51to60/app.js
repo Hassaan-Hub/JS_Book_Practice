@@ -58,3 +58,54 @@
 // }
 
 
+
+
+// 56 Target all elements by tag name
+
+// var main = document.getElementById("main")
+// tags[0].innerHTML = "hello sir"
+// tags[1].innerHTML = "hello hassaan"
+// tags[2].innerHTML = "hello majid"
+// tags[3].innerHTML = "hello muhammad"
+
+// var main = document.getElementsByTagName("p")
+// for(var i = 0; i < main.length; i++){
+//     if(main[i] == main[0]){
+//         main[i].innerHTML = "hello hassan"
+//     }
+// }
+
+
+
+
+// 57 Target some elements by tag name
+
+
+// var target = document.getElementById("tarEle")
+// target.style.fontSize = "2em"
+
+
+
+
+// 58 The DOM
+
+// DOM FULL FORM: document object model
+
+
+
+
+// 59 The DOM: Parents and children
+
+// document child html
+// html child head & body
+// head child title & simple document child of title
+// body child div,p & etc
+
+
+
+
+// 60 The DOM: Finding children
+
+
+// var findingCild = document.childNodes[0]
+// console.log(findingCild);
