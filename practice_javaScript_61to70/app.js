@@ -37,3 +37,30 @@
 //     }
 // }
 
+
+
+
+// 65 The DOM: Attributes
+
+// var para = document.getElementById("paragraph")
+// var get = para.getAttribute("class")
+// var attri1 = para.hasAttribute("id")
+// var attri = para.setAttribute("class", "para")
+// console.log(get);
+// console.log(attri1);
+
+
+
+
+// 66 The DOM: Attribute names and values
+
+// var para = document.getElementById("paragraph").childNodes[0]
+// var para = document.getElementById("paragraph").attributes
+// var numOfItems = para.length;
+// console.log(numOfItems);
+
+var numOfItems = document.getItemById("paragraph").attributes.length
+console.log(numOfItems);
+
+
+
