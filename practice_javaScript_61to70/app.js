@@ -61,3 +61,13 @@
 
 // var numOfItems = document.getItemById("paragraph").attributes.length
 // console.log(numOfItems);
+
+
+
+
+// 67 The DOM: Adding nodes
+
+
+
+
+
