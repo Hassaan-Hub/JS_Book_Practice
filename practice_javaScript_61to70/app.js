@@ -67,11 +67,11 @@
 
 // 67 The DOM: Adding nodes
 
+// var newNode = document.createElement("p")
+// newNode.hasAttribute("class", "para")
+
+// var newText = document.createTextNode("hello hassaan..")
+// newNode.appendChild(newText)
 
 
 
-var newNode = document.createElement("p")
-newNode.hasAttribute("class", "para")
-
-var newText = document.createTextNode("hello hassaan..")
-newNode.appendChild(newText)
