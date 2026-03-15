@@ -75,3 +75,30 @@
 
 
 
+// 68 The DOM: Inserting nodes
+
+// var div = document.getElementById("div")
+// var para = document.createElement("p")
+// var text = document.createTextNode("hello sir!")
+
+// para.appendChild(text)
+// div.appendChild(para)
+
+// var pareant = div.firstChild
+// console.log(pareant);           //  p
+
+
+
+
+// 69 Objects
+
+// var object = {
+//     name: "hassaan",        //  string
+//     roll: 123,              //  number
+//     perform: true           //  bolean
+// }
+
+
+
+
+// 70 Objects: Properties
