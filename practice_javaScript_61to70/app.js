@@ -102,3 +102,16 @@
 
 
 // 70 Objects: Properties
+
+var object = {
+    name: "hassaan",
+    anrolved: true,
+    num: 123,
+    feature: ["first", "first"]
+}
+
+// object.name = "ali"
+// object.anrolved = false
+// object.num = 1571
+// object.feature = ["first", "second"]
+// console.log(object);
