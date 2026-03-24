@@ -104,4 +104,26 @@
 // 76 Browser control: Getting and setting the URL
 
 // window.location.href
+// 👉 Current full URL deta hai (poora link)
+// Example: https://example.com/page?id=1
+
 // window.location.hostname
+// 👉 Sirf domain name deta hai (website ka naam)
+// Example: example.com
+
+// window.location.pathname
+// 👉 URL ka path deta hai (domain ke baad wala part)
+// Example: /page
+
+// window.location.hash
+// 👉 URL ka hash/anchor part deta hai (# ke baad)
+// Example: #section1
+
+// window.location.assign()
+// 👉 Kisi new URL par redirect karne ke liye use hota hai
+
+// window.location.reload()
+// 👉 Page ko reload (refresh) karta hai
+
+// window.location.replace()
+// 👉 Redirect karta hai lekin history save nahi hoti (back nahi ja sakte)
