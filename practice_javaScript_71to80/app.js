@@ -127,3 +127,7 @@
 
 // window.location.replace()
 // 👉 Redirect karta hai lekin history save nahi hoti (back nahi ja sakte)
+
+
+
+
